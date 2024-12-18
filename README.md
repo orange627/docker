@@ -1,0 +1,1 @@
+app.jsとpackage.jsonを入れ替えてnodejsをdocker上で実行する。
